@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nome": "Monitor Gamer 27''",
+        "preco": 10.99,
+        "descricao": "Monitor Gamer 27'' 144Hz",
+        "categoria": "Monitores"
+    },
+    {
+        "id": 2,
+        "nome": "HP Notebook 15''",
+        "preco": 19.99,
+        "descricao": "HP Notebook 15'' 16GB RAM",
+        "categoria": "Portáteis"
+    },
+    {
+        "id": 3,
+        "nome": "Teclado Mecânico",
+        "preco": 5.99,
+        "descricao": "Teclado Mecânico RGB",
+        "categoria": "Periféricos"
+    },
+    {
+        "id": 4,
+        "nome": "Mouse Gamer",
+        "preco": 15.99,
+        "descricao": "Mouse Gamer 6 botões",
+        "categoria": "Periféricos"
+    },
+    {
+        "id": 5,
+        "nome": "Headset Gamer",
+        "preco": 25.99,
+        "descricao": "Headset Gamer 7.1 Surround",
+        "categoria": "Periféricos"
+    },
+    {
+        "id": 6,
+        "nome": "Wireless Mouse",
+        "preco": 12.99,
+        "descricao": "Mouse sem fio 6 botões",
+        "categoria": "Periféricos"
+    },
+    {
+        "id": 7,
+        "nome": "Mousepad Gamer",
+        "preco": 8.99,
+        "descricao": "Mousepad Gamer 800mm x 300mm",
+        "categoria": "Periféricos"
+    },
+    {
+        "id": 8,
+        "nome": "UPS 2.5VA 650W",
+        "preco": 78.99,
+        "descricao": "Uninterruptible Power Supply 2.5VA 650W",
+        "categoria": "Periféricos"
+    },
+    {
+        "id": 9,
+        "nome": "Teclado Wireless Mecânico",
+        "preco": 14.99,
+        "descricao": "Teclado sem fio Mecânico RGB",
+        "categoria": "Periféricos"
+    },
+    {
+        "id": 10,
+        "nome": "Macbook Pro 16''",
+        "preco": 22.99,
+        "descricao": "Macbook Pro 16'' 16GB RAM",
+        "categoria": "Portáteis"
+    },
+    {
+        "id": 11,
+        "nome": "Monitor Gamer 4K 27''",
+        "preco": 9.99,
+        "descricao": "Monitor Gamer 4K 27'' 120Hz",
+        "categoria": "Monitores"
+    },
+    {
+        "id": 12,
+        "nome": "Disco SSD 1TB",
+        "preco": 16.99,
+        "descricao": "Disco SSD 1TB 500MB/s",
+        "categoria": "Armazenamento"
+    }
+]
